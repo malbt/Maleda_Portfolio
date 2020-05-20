@@ -21,7 +21,7 @@ Apache Spark will be applied for the data wrangle. Then the processed data will 
 
 Jupyter notebook will be used to load the data with applying SQL query for data analysis and pridction model building. The data visualization will be also performed with matplotlib, bokeh and other data visulization tools.
 
-![]()
+![](https://github.com/malbt/Maleda_Portfolio/blob/master/images/finalproject.jpg.png)
 
 
 # [Project 3: Week9-ResearchProjects](https://github.com/malbt/Week9-ResearchProjects)
@@ -45,4 +45,4 @@ Data Visualization<br>
   - plotly
   - Seaborn
 
-
+![](https://github.com/malbt/Maleda_Portfolio/blob/master/images/bkex.jpg.png)
