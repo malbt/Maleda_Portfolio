@@ -10,6 +10,8 @@ the price and how long it stayed.<br>
 
 ![](/images/airflowpipe.jpg.png)
 
+  - # [Dag](https://github.com/malbt/DataEnginerringAirflow/blob/master/getdata.py)
+
 # [project 2: ZCW.DataGroupProject](https://github.com/malbt/ZCW.DataGroupProject)
 
 In this group porject, our topic is housing price prediction of Philadelphia city area. We will collect some historical data from Open Databsae of Philly, including real estate, publica school, hospital, crime rate, park and recreation facilities, and so on. Also, we will update some daily housing information in the Philly area, to allow us to have a parallel view of the price prediction study. A streaming API data will be added.
@@ -47,3 +49,10 @@ Data Visualization<br>
   - Seaborn
 
 ![](/images/bkex.jpg.png)
+
+
+  - # [Bokeh](https://github.com/malbt/Week9-ResearchProjects/blob/master/Bokeh.ipynb)
+      - [plots](https://github.com/malbt/Week9-ResearchProjects/blob/master/wrdex.jpg.png)
+      - [Plots](https://github.com/malbt/Week9-ResearchProjects/blob/master/pex.jpg.png)
+  - # [Swift](https://github.com/malbt/Week9-ResearchProjects/blob/master/Swift.ipynb)
+  - # [CouchDB](https://github.com/malbt/Week9-ResearchProjects/blob/master/CouchDB.ipynb)
