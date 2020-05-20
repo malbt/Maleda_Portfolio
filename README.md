@@ -12,17 +12,15 @@ the price and how long it stayed.
 
 
 Pick one tech from each of these categories:<br>
-New Language<br>
+New Language
   - Julia
   - SCALA
   - R
   - Swift<br>
-  
 New NoSQL Database<br>
   - MongoDB
   - REDIS
   - CouchDB<br>
-  
 Data Visualization<br>
   - Bokeh
   - ggplot or ggplot2
