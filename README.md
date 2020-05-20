@@ -52,7 +52,9 @@ Data Visualization<br>
 
 
   - [Bokeh](https://github.com/malbt/Week9-ResearchProjects/blob/master/Bokeh.ipynb)
-      - [plots](https://github.com/malbt/Week9-ResearchProjects/blob/master/wrdex.jpg.png)
-      - [Plots](https://github.com/malbt/Week9-ResearchProjects/blob/master/pex.jpg.png)
+      - [plt:](https://github.com/malbt/Week9-ResearchProjects/blob/master/wrdex.jpg.png)
+      - [Plt:](https://github.com/malbt/Week9-ResearchProjects/blob/master/pex.jpg.png)
+      - [Plt:](https://github.com/malbt/Week9-ResearchProjects/blob/master/bkex.jpg.png)
+      
   - [Swift](https://github.com/malbt/Week9-ResearchProjects/blob/master/Swift.ipynb)
   - [CouchDB](https://github.com/malbt/Week9-ResearchProjects/blob/master/CouchDB.ipynb)
