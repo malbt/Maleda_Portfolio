@@ -17,10 +17,12 @@ New Language
   - SCALA
   - R
   - Swift<br>
+  
 New NoSQL Database<br>
   - MongoDB
   - REDIS
   - CouchDB<br>
+  
 Data Visualization<br>
   - Bokeh
   - ggplot or ggplot2
