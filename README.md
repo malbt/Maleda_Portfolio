@@ -46,11 +46,9 @@ Data Visualization<br>
   - ggplot or ggplot2
   - matplotlib
   - plotly
-  - Seaborn
+  - Seaborn<br>
 
-![](/images/bkex.jpg.png)
-
-
+My choices:<br>
   - [Bokeh](https://github.com/malbt/Week9-ResearchProjects/blob/master/Bokeh.ipynb)
       - [plt:](https://github.com/malbt/Week9-ResearchProjects/blob/master/wrdex.jpg.png)
       - [Plt:](https://github.com/malbt/Week9-ResearchProjects/blob/master/pex.jpg.png)
