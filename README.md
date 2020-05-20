@@ -7,6 +7,7 @@ picked one ticker(TSLA/Tesla) and took out 10 years stock price from yahoo finan
 cleaned and stored the data into postgres database, merged the tables in to one and then created tables for each year, 
 created a dataframe and a candlestick chart so that they can see when and where the fillings occurred how it impacted 
 the price and how long it stayed.<br>
+
 ![](/images/airflowpipe.jpg.png)
 
 # [project 2: ZCW.DataGroupProject](https://github.com/malbt/ZCW.DataGroupProject)
