@@ -16,7 +16,7 @@ the price and how long it stayed.<br>
 
 This is a project between 3- Zip Code Wilmington students, that have explored API data to find out what are the relevant factors that are driving the Philadelphia City housing market.We will collect some historical data from Open Databsae of Philly, including real estate, publica school, hospital, crime rate, park and recreation facilities, and so on. Also, we will update some daily housing information in the Philly area, to allow us to have a parallel view of the price prediction study.
 
-![](/images/finalproject.jpg.png)
+![](/images/flowimage.jpg)
 
 
 # [Project 3: Week9-ResearchProjects](https://github.com/malbt/Week9-ResearchProjects)
