@@ -19,28 +19,10 @@ This is a project between 3- Zip Code Wilmington students, that have explored AP
 ![](/images/flowimage.jpg)
 
 
-# [Project 3: Week9-ResearchProjects](https://github.com/malbt/Week9-ResearchProjects)
+# [Project 3: Week9-ResearchProjects](https://github.com/malbt/Week9-ResearchProjects)<br>
 
-Pick one tech from each of these categories:<br>
-New Language
-  - Julia
-  - SCALA
-  - R
-  - Swift<br>
-  
-New NoSQL Database<br>
-  - MongoDB
-  - REDIS
-  - CouchDB<br>
-  
-Data Visualization<br>
-  - Bokeh
-  - ggplot or ggplot2
-  - matplotlib
-  - plotly
-  - Seaborn<br>
 
-My choices:<br>
+My Research:<br>
   - [Bokeh](https://github.com/malbt/Week9-ResearchProjects/blob/master/Bokeh.ipynb)
       - [plt:](https://github.com/malbt/Week9-ResearchProjects/blob/master/wrdex.jpg.png)
       - [Plt:](https://github.com/malbt/Week9-ResearchProjects/blob/master/pex.jpg.png)
