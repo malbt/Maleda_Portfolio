@@ -30,3 +30,7 @@ My Research:<br>
       
   - [Swift](https://github.com/malbt/Week9-ResearchProjects/blob/master/Swift.ipynb)
   - [CouchDB](https://github.com/malbt/Week9-ResearchProjects/blob/master/CouchDB.ipynb)
+
+# Tableau Practice
+- [FDI Dataset](https://public.tableau.com/profile/maleda#!/vizhome/FDIdatasetWorkBook/Dashboard1)
+- [Aircraft Accident/Incident ](https://public.tableau.com/profile/maleda#!/vizhome/AircraftAccidentIncidentOverview/AircraftIncident2000-20041)
